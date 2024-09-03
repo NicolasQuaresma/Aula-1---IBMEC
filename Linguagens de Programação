@@ -5,6 +5,13 @@ Sintaxe: Inspirada em C/C++, com uma sintaxe clara e rigorosa.
 Tipagem: Fortemente tipada (você deve declarar o tipo de cada variável).
 Compilação: O código Java é compilado em bytecode que é executado pela JVM, tornando o Java portátil entre diferentes sistemas operacionais.
 Uso Comum: Desenvolvimento de aplicativos corporativos, Android, sistemas embarcados, e aplicações web.
+// Este é um programa simples em Java que imprime "Olá, Mundo!"
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
 
 JavaScript
 JavaScript é uma linguagem de programação interpretada, comumente usada para adicionar interatividade a páginas web. Aqui estão algumas características chave:
@@ -13,6 +20,9 @@ Sintaxe: Menos rigorosa que Java, com mais flexibilidade e alguns aspectos da pr
 Tipagem: Dinamicamente tipada (você não precisa declarar o tipo de cada variável).
 Execução: Executado diretamente no navegador ou em ambientes de servidor como Node.js.
 Uso Comum: Desenvolvimento web (frontend e backend), scripts de automação, aplicações móveis com frameworks como React Native.
+// Este é um script simples em JavaScript que imprime "Olá, Mundo!" no console
+console.log("Olá, Mundo!");
+
 
 Python
 Python é uma linguagem de programação de alto nível, conhecida por sua simplicidade e legibilidade. Aqui estão algumas características chave:
@@ -21,6 +31,10 @@ Sintaxe: Muito clara e legível, projetada para ser fácil de entender e escreve
 Tipagem: Dinamicamente tipada.
 Execução: Interpretada, o que significa que o código Python é executado linha por linha.
 Uso Comum: Desenvolvimento web, ciência de dados, automação, inteligência artificial, scripts de sistema.
+# Este é um programa simples em Python que imprime "Olá, Mundo!"
+print("Olá, Mundo!")
+
+
 
 Comparação
 Tipagem: Java é fortemente tipada, enquanto JavaScript e Python são dinamicamente tipadas. Isso significa que, em Java, você deve especificar tipos de variáveis, enquanto em JavaScript e Python, os tipos são inferidos automaticamente.
@@ -38,3 +52,5 @@ Cada linguagem tem seus próprios pontos fortes e fracos, e a escolha entre elas
 
 Código:
 print('execute')
+
+
